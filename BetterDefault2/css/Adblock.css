@@ -1,0 +1,12 @@
+.AdBannerContainer {
+    opacity: 0 !important;
+    width: 0rem !important;
+    height: 0rem !important;
+    top: 500rem !important;
+}
+
+.LoadingOverlay .LoadingOverlayRight .LoadingOverlayRightAdBannerContainer {
+    height: 0rem !important;
+    width: 0rem !important;
+    opacity: 0 !important;
+}
